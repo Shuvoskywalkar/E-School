@@ -1,0 +1,41 @@
+.btn1{background-color: #218573;width: 125px;height: 35px;border-radius: 15px;color: white;border: none;}
+.container1{margin-left: 100px;margin-right: 100px;}
+.orange{color: orange;}
+.greeny{color: #21B573}
+.sec1{background-color: #F0FFF0;background-size: contain;}
+.container2{margin-left: 90px;margin-right: 90px;margin-top: 50px;text-align: center;}
+.row h5{color: blueviolet;}
+
+.man img{width:35%;margin-top: 25px;}
+.man{margin-top: 70px;}
+.sec3{margin-top: 100px;margin-left: 200px;margin-right: 200px;}
+.testimonial{text-align: center;color: #413960;}
+.TMcol{margin-top: 35px;font-weight: 500;}
+.onlinecourses{margin-top: 100px;margin-left: 100px;margin-right: 100px;}
+.card img{padding: 10px;}
+.card{height: 380px;width: 100%;border: none;border-radius: 7px;box-shadow: 10px 20px 40px lightgray;width: 350px;
+}
+.btn2{border:none;background-color: #21B573;color: white;width: 137px;height:35px;border-radius: 12px;}
+.designation{color: #585859;}
+.card-title{color: #413960;}
+.section2{margin-top: 100px;}
+.first{padding: 5px 50px ;}
+.cardim{width: 50%;align-items: center;}
+.borders{width:500%}
+.lastse{margin-top: 100px;background-color: #585859;width:100%px;position: absolute;height: 363px;}
+.last{font-weight: 700;color:white;background-color: #585859;border: none;box-shadow: none;}
+ul{list-style: none;}
+.courses{margin-left: 100px;margin-right: 100px;color: white;}
+
+footer{text-align:center;position: relative;left: 350px;margin-top: 90px;}
+.cardec{margin-top: 100px;}
+.adicards{border:;background-color:  #F8FFFB ;border-radius: 10px;box-shadow: 0px 0px 14px #F0FFF0;}
+
+    .adicards:hover{border: none;border-radius: 7px;box-shadow: 0px 0px 40px lightgray;background-color:white }
+    .bannerrow{margin-top: 50px;}
+    .c{width: 50px;height: 30px;}
+    .listed{color: white;}
+    .minologo{width: 24px;height: 24px;}
+    .ontim{margin-top: 70px;margin-left: 50px;margin-right: 50px;line-height: 30px;}
+    .duffer{width:18px}
+    .uls{float: left;}
