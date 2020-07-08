@@ -2,7 +2,7 @@
 .container1{margin-left: 100px;margin-right: 100px;}
 .orange{color: orange;}
 .greeny{color: #21B573}
-.sec1{background-color: #F0FFF0;background-size: contain;}
+.sec1{background-color: #F0FFF0;}
 .container2{margin-left: 90px;margin-right: 90px;margin-top: 50px;text-align: center;}
 .row h5{color: blueviolet;}
 
@@ -11,7 +11,7 @@
 .sec3{margin-top: 100px;margin-left: 200px;margin-right: 200px;}
 .testimonial{text-align: center;color: #413960;}
 .TMcol{margin-top: 35px;font-weight: 500;}
-.onlinecourses{margin-top: 100px;margin-left: 100px;margin-right: 100px;}
+.sec2{margin-top: 100px;margin-left: 100px;margin-right: 100px;}
 .card img{padding: 10px;}
 .card{height: 380px;width: 100%;border: none;border-radius: 7px;box-shadow: 10px 20px 40px lightgray;width: 350px;
 }
@@ -22,7 +22,7 @@
 .first{padding: 5px 50px ;}
 .cardim{width: 50%;align-items: center;}
 .borders{width:500%}
-.lastse{margin-top: 100px;background-color: #585859;width:100%px;position: absolute;height: 363px;}
+.sec4{margin-top: 100px;background-color: #585859;width:100%px;position: absolute;height: 363px;}
 .last{font-weight: 700;color:white;background-color: #585859;border: none;box-shadow: none;}
 ul{list-style: none;}
 .courses{margin-left: 100px;margin-right: 100px;color: white;}
